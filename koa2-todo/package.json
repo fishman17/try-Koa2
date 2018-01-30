@@ -1,0 +1,14 @@
+{
+  "name": "koa2-todo",
+  "version": "1.0.0",
+  "description": "koa2-learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Daimuyang' <'734583898@qq.com'>",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
