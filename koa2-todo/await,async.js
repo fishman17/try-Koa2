@@ -1,5 +1,3 @@
-
-
 //处理异步请求 await async
 function getSomeThing(){
     return 'something';
